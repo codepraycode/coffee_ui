@@ -17,4 +17,4 @@ Expo => [https://expo.dev](https://expo.dev)
 
 React Native => [https://reactnative.dev](https://reactnative.dev)
 
-Run the app => [https://expo.dev/@codepraycode/cofee_ui](https://expo.dev/@codepraycode/cofee_ui)
+Run the app => [https://expo.dev/@codepraycode/coffee_ui](https://expo.dev/@codepraycode/coffee_ui)
