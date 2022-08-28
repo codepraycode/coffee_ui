@@ -1,6 +1,6 @@
 # Coffee Ordering Application
 
-A coffee ordering application (prototype), which I built from a UI/UX I found on [instagram](https://www.instagram.com/iliketummy)
+A coffee ordering application (prototype), which I built from a UI/UX I found on [instagram](https://www.instagram.com/p/ChuFaKVjYHO/)
 
 # How to run the app
 To run this application locally
@@ -11,7 +11,7 @@ To run this application locally
 
 
 # Credits
-UI/UX => [https://www.instagram.com/p/ChuFaKVjYHO/](https://www.instagram.com/p/ChuFaKVjYHO/)
+UI/UX => [Tumi_UIUX](https://www.instagram.com/iliketummy)
 
 Expo => [https://expo.dev](https://expo.dev)
 
