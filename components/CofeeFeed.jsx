@@ -13,30 +13,37 @@ const data = [
     {
         id:1,
         name:"Cappuccino",
-        image_url:"https://images.pexels.com/photos/13242090/pexels-photo-13242090.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        image_url:"https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         price: "$3.00",
         category:"Without milk",
     },
     {
         id: 2,
-        name: "Cappuccino",
-        image_url: "https://images.pexels.com/photos/1903965/pexels-photo-1903965.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        name: "Americano",
+        image_url: "https://images.pexels.com/photos/8340104/pexels-photo-8340104.jpeg?auto=compress&cs=tinysrgb&w=600",
         price: "$3.00",
         category:"Without milk",
     },
     {
         id: 3,
-        name: "Cappuccino",
-        image_url: "https://images.pexels.com/photos/9707479/pexels-photo-9707479.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        name: "Black coffee",
+        image_url: "https://images.pexels.com/photos/733763/pexels-photo-733763.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         price: "$3.00",
         category:"Without milk",
     },
     {
         id: 4,
-        name: "Cappuccino",
-        image_url: "https://images.pexels.com/photos/7084309/pexels-photo-7084309.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        name: "Expresso",
+        image_url: "https://images.pexels.com/photos/2299028/pexels-photo-2299028.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         price: "$3.00",
         category:"Without milk",
+    },
+    {
+        id: 5,
+        name: "Expresso",
+        image_url: "https://images.pexels.com/photos/2299028/pexels-photo-2299028.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        price: "$3.00",
+        category: "Without milk",
     }
 ];
 
@@ -163,7 +170,7 @@ const CoffeeFeeds = () => {
                 }}
             >
                 <Image
-                    source={{ uri: "https://images.pexels.com/photos/13242090/pexels-photo-13242090.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" }}
+                    source={{ uri: "https://images.pexels.com/photos/2910874/pexels-photo-2910874.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" }}
                     resizeMode={"cover"}
                     style={{
                         width: 130,

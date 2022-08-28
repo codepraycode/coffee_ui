@@ -42,16 +42,16 @@ const HomeScreen = () => {
                 options={tabIcon({ name: 'home', type:'material'})}
             />
 
-            <Tab.Screen name="Scan" component={CofeeFeed} 
-                options={tabIcon({ name: 'scan1', type: 'antdesign' })}
-            />
-
             <Tab.Screen name="Cart" component={CofeeFeed} 
-                options={tabIcon({ name: 'shopping-cart', type: 'foundation' })}
+                options={tabIcon({ name: 'shopping-bag', type: 'font-awesome' })}
             />
 
-            <Tab.Screen name="Saved" component={CofeeFeed} 
-                options={tabIcon({ name: 'bookmark', type: 'material' })}
+            <Tab.Screen name="Favourite" component={CofeeFeed} 
+                options={tabIcon({ name: 'heart-o', type: 'font-awesome' })}
+            />
+
+            <Tab.Screen name="Profile" component={CofeeFeed} 
+                options={tabIcon({ name: 'user', type: 'font-awesome' })}
             />
         </Tab.Navigator>
         

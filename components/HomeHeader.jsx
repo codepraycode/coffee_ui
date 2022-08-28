@@ -91,8 +91,6 @@ const styles = StyleSheet.create({
         paddingVertical:2,
     },
     searchInputContainer:{
-        // backgroundColor:COLORS.white,
-        // borderWidth:1,
         borderBottomWidth: 0,
         height:45,
         borderRadius:10,
